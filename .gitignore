@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.streamlit/
+chroma_db/
+*.mp3
+*.mp4
+*.wav
+*.m4a
